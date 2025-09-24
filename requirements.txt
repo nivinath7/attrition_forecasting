@@ -1,6 +1,7 @@
 streamlit
 pandas
 matplotlib
+pystan==2.19.1.1   # Add this line
 prophet
 scikit-learn
 numpy
